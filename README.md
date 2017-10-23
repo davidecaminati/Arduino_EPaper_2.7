@@ -2,9 +2,13 @@
 Use E-Paper 2.7 inc. 
 
 Usefull links at 
+
 https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT_(B)   
+
 https://www.waveshare.com/2.7inch-e-paper-hat.htm
+
 https://www.waveshare.com/2.7inch-e-Paper-HAT-B.htm
+
 
 Image creator  (
 https://www.waveshare.com/w/upload/3/36/Image2Lcd.7z
